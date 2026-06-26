@@ -11,8 +11,7 @@ screenshots/dashboard.png## Screenshots
 
 MintMate combines a beautiful dark dashboard, live system monitoring,
 one-click application launchers, desktop utilities, and a built-in command
-console into a single, fast, native-feeling desktop app.
-
+console into a single, fast, native-feeling desktop app with voice commands.
 ---
 
 ## ✨ Features
@@ -40,9 +39,19 @@ console into a single, fast, native-feeling desktop app.
 
 > Add screenshots here after first run:
 >
-> - `docs/screenshot-dashboard.png`
-> - `docs/screenshot-monitor.png`
-> - `docs/screenshot-utilities.png`
+> ## 🖼 Screenshots
+
+### Dashboard
+
+![Dashboard](Screenshots/dashboard.png)
+
+### Applications
+
+![Applications](Screenshots/apps.png)
+
+### System Monitor
+
+![System Monitor](Screenshots/monitor.png)
 
 ## 🛠 Tech Stack
 
