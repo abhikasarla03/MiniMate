@@ -1,0 +1,34 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MintMate runtime
+*.log
+screenshots/
