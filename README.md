@@ -1,11 +1,3 @@
-screenshots/dashboard.png## Screenshots
-
-### Dashboard
-
- # MintMate
-
-![Dashboard](Screenshots/dashboard.png)# MintMate
-
 > A modern, polished productivity assistant for **Linux Mint** (and most Linux
 > desktops) built with Python** and **CustomTkinter**.
 
